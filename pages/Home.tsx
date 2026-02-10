@@ -26,7 +26,8 @@ const HeroSection = () => (
           The Authority on AI Income
         </span>
         
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-display font-bold leading-[1.1] mb-8 tracking-tight">
+        {/* Adjusted font sizes here: text-4xl md:text-6xl lg:text-7xl */}
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-display font-bold leading-[1.1] mb-8 tracking-tight">
           Discover AI Tools <br />
           <span className="text-white">That</span> <GradientText>Generate Income</GradientText>
         </h1>
