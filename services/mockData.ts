@@ -59,7 +59,7 @@ export const TOOLS: Tool[] = [
     // ------------------------------------------------------------------
     // ACTION REQUIRED: Paste your Systeme.io affiliate link below
     // ------------------------------------------------------------------
-    affiliateLink: 'https://systeme.io/?sa=YOUR_AFFILIATE_ID_HERE', 
+    affiliateLink: 'https://systeme.io/?sa=sa02629787227d3ce36dab138ae31e4258831a372e', 
     iconUrl: 'https://images.unsplash.com/photo-1560472355-536de3962603?auto=format&fit=crop&q=80&w=200',
     rating: 5.0,
   },
