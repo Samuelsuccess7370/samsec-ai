@@ -56,7 +56,10 @@ export const TOOLS: Tool[] = [
     description: 'The world’s easiest all-in-one marketing platform. Build funnels, send emails, and manage affiliates.',
     price: 'Free Forever Plan',
     category: 'Marketing',
-    affiliateLink: '#',
+    // ------------------------------------------------------------------
+    // ACTION REQUIRED: Paste your Systeme.io affiliate link below
+    // ------------------------------------------------------------------
+    affiliateLink: 'https://systeme.io/?sa=YOUR_AFFILIATE_ID_HERE', 
     iconUrl: 'https://images.unsplash.com/photo-1560472355-536de3962603?auto=format&fit=crop&q=80&w=200',
     rating: 5.0,
   },
@@ -66,7 +69,10 @@ export const TOOLS: Tool[] = [
     description: 'AI-powered "Human-like" all-in-one marketing assistant. Creates landing pages, ads, and copy in seconds.',
     price: 'Free Trial',
     category: 'AI Assistant',
-    affiliateLink: '#',
+    // ------------------------------------------------------------------
+    // ACTION REQUIRED: Paste your MarketingBlocks link below
+    // ------------------------------------------------------------------
+    affiliateLink: 'https://marketingblocks.ai/special-deal', 
     iconUrl: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=200',
     rating: 4.9,
   },
@@ -76,7 +82,10 @@ export const TOOLS: Tool[] = [
     description: 'Enterprise-grade AI content platform for marketing teams to scale content production.',
     price: '$39/mo',
     category: 'Copywriting',
-    affiliateLink: '#',
+    // ------------------------------------------------------------------
+    // ACTION REQUIRED: Paste your Jasper link below
+    // ------------------------------------------------------------------
+    affiliateLink: 'https://jasper.ai?fpr=YOUR_ID', 
     iconUrl: 'https://images.unsplash.com/photo-1664575602276-acd073f104c1?auto=format&fit=crop&q=80&w=200',
     rating: 4.8,
   },
@@ -86,7 +95,10 @@ export const TOOLS: Tool[] = [
     description: 'The highest quality AI image generator for creating stunning visuals and art.',
     price: '$10/mo',
     category: 'Design',
-    affiliateLink: '#',
+    // ------------------------------------------------------------------
+    // ACTION REQUIRED: Paste your Midjourney/Design tool link below
+    // ------------------------------------------------------------------
+    affiliateLink: 'https://midjourney.com', 
     iconUrl: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=200',
     rating: 4.9,
   },
